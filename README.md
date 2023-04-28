@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagadeesh
-- 👀 I’m interested in Data Science and Computer Vision
-- 🌱 I’m currently learning ML and DL
+- 👀 I am a active learner who explores the world of aritificial interlligence
+- 🌱 I love to work in DL and ML related projects
 - 💞️ I’m looking to collaborate on any open source projects related to python
 - 📫 How to reach me --> Twitter : @simplyjaga
 
